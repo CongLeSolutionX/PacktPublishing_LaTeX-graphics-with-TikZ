@@ -50,7 +50,18 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * LaTeX Beginner’s Guide - Second Edition [[Packt]](https://www.packtpub.com/product/latex-beginners-guide-second-edition/9781801078658?utm_source=github&utm_medium=repository&utm_campaign=9781801078658) [[Amazon]](https://www.amazon.com/dp/1847199860)
 
+## Errata:
 
+* Page 52: At the end of the first code section,
+  ```
+  ]]
+  ```
+
+  _should be_
+
+  ```
+  ]
+  ```
 
 ## Get to Know the Author
 **Stefan Kottwitz**
